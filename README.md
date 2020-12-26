@@ -1,2 +1,2 @@
 # linuxterminal
-<img src= ".github/print.jpg" />
+<img src= ".github/print.png" />
