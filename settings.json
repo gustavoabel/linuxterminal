@@ -12,11 +12,10 @@
     "defaults": {
         "useAcrylic": true,
         "acrylicOpacity": 0.3,
-        "backgroundImage": "C:\\Users\\Gustavo Abel\\Downloads\\gustavoDown\\uchiha.gif",
-        "backgroundImageStretchMode": "fill",
-        "backgroundImageOpacity": 0.5
+        "backgroundImage": "C:\\Users\\Gustavo Abel\\Downloads\\gustavoDown\\sasuke.jpg",
+        "backgroundImageStretchMode": "fill"
         
-        
+    }
     },
     "list": [
         [
